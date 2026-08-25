@@ -1,3 +1,9 @@
+> [!IMPORTANT]
+> This workspace has moved to
+> [basepoint-geometry/theory](https://github.com/cotaxxxx/basepoint-geometry/tree/main/theory).
+> This repository is retained temporarily for migration review and is not the
+> source of truth.
+
 # Theory of Basepoint Geometry
 
 **基点幾何論**
